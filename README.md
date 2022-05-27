@@ -51,3 +51,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![giphy-3](https://user-images.githubusercontent.com/57370380/170773821-33141358-d0d8-4ac4-8b06-2357ca155e1c.gif)
+giphy-3](https://user-images.githubusercontent.com/57370380/170773709-864b4a10-245c-4ab6-bbaa-b3cf9a2afc98.gif)
+] 
