@@ -50,6 +50,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![giphy-4](https://user-images.githubusercontent.com/57370380/170774906-e83752dc-ebb0-46a4-9060-d50dacd836e0.gif)
 
 
