@@ -50,6 +50,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![giphy-3](https://user-images.githubusercontent.com/57370380/170773821-33141358-d0d8-4ac4-8b06-2357ca155e1c.gif)
-giphy-3](https://user-images.githubusercontent.com/57370380/170773709-864b4a10-245c-4ab6-bbaa-b3cf9a2afc98.gif)
-] 
+<iframe src="https://giphy.com/embed/dsOutSff4cv6EhMC0m" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dsOutSff4cv6EhMC0m">via GIPHY</a></p>
