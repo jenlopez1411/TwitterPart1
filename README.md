@@ -51,5 +51,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![giphy-3](https://user-images.githubusercontent.com/57370380/170773821-33141358-d0d8-4ac4-8b06-2357ca155e1c.gif)
-<iframe src="https://giphy.com/embed/dsOutSff4cv6EhMC0m" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dsOutSff4cv6EhMC0m">via GIPHY</a></p>
+
+
+https://user-images.githubusercontent.com/57370380/170774640-f9f82c71-ac9f-4c1e-ba92-68244c8ccfef.mp4
+
+
